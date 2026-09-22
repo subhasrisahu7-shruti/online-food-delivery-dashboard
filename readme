@@ -1,0 +1,52 @@
+# Online Food Delivery Customer Dashboard
+
+## Project Overview
+
+This project is an interactive dashboard created to analyze an online food delivery customer dataset.
+
+The dashboard provides a simple visual view of customer demographics, income, age, and ordering behavior.
+
+## Dashboard Features
+
+- Total number of customers
+- Average customer age
+- Number of customers with positive ordering output
+- Monthly income vs ordering behavior
+- Customer age distribution
+- Occupation-based filtering
+- Interactive charts and visualizations
+
+## Dataset
+
+The dataset contains information about online food delivery customers, including:
+
+- Age
+- Gender
+- Marital Status
+- Occupation
+- Monthly Income
+- Educational Qualifications
+- Family Size
+- Customer Type
+- Location
+- Ordering Output
+- Feedback
+
+## Tools Used
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- GitHub
+
+## Project Purpose
+
+The purpose of this dashboard is to turn raw customer data into an interactive and easy-to-understand visual dashboard that can help identify customer patterns and ordering behavior.
+
+## Author
+
+Subhasri Sahu
+
+BCA – Artificial Intelligence and Data Science  
+Manipal University Jaipur
